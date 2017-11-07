@@ -47,3 +47,7 @@ duplicates
 #########################
 tests/
 jeux/deux_reves/sounds/
+
+# authorize #
+#########################
+.authorize
