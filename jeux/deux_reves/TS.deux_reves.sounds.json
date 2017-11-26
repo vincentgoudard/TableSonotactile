@@ -1,0 +1,91 @@
+{
+	"Joueur1" : {
+		"Reve1": {
+			"FdA" : "R1_FdA_1_Pieds_Boitement_hesitant",
+			"FdB" : "R1_FdB_1_Pieds_BoitPas_Tutti",
+			"ObA" : "R1_ObA_1_Cles_Bois",
+			"ObB" : "R1_ObB_1_Radiat_FrapDgt_Rythm"
+		},
+		"Reve2":{
+			"FdA" : "R2_FdA_1_Papier_Frott_Bois_Regul",
+			"FdB" : "R2_FdB_1_Doigts_Motif_TrainEtienne",
+			"ObA" : "R2_ObA_1_Verre_Clac_Rythm",
+			"ObB" : "R2_ObB_1_Voix_Phrase_Depart"
+		}
+	}
+,
+	"Joueur2" : {
+		"Reve1": {
+			"FdA" : "R1_FdA_2_Papier_Frott_Bois_Regul",
+			"FdB" : "R1_FdB_2_Pieds_Pas_réguliers",
+			"ObA" : "R1_ObA_2_Verre_Clac_Rythm",
+			"ObB" : "R1_ObB_2_Radiat1_Cliquetis"
+		},
+		"Reve2":{
+			"FdA" : "R2_FdA_2_Tutti_Chuchotte",
+			"FdB" : "R2_FdB_2_Grille4_Regul",
+			"ObA" : "R2_ObA_2_Voix_Nuages",
+			"ObB" : "R2_ObB_2_Voix_Signal_Train"
+		}
+	}
+,
+	"Joueur3" : {
+		"Reve1": {
+			"FdA" : "R1_FdA_3_Pompe_Grince",
+			"FdB" : "R1_FdB_3_Voix_Tenue",
+			"ObA" : "R1_ObA_3_Chaise_Vib",
+			"ObB" : "R1_ObB_3_Chaise_VibGliss"
+		},
+		"Reve2":{
+			"FdA" : "R2_FdA_3_Tutti_Chuchotte",
+			"FdB" : "R2_FdB_3_Voix_Tenue_pp",
+			"ObA" : "R2_ObA_3_Voix_Plage",
+			"ObB" : "R2_ObB_3_Verre_Clac_Rythm"
+		}
+	}
+,
+	"Joueur4" : {
+		"Reve1": {
+			"FdA" : "R1_FdA_4_Chaise_Vib_Tenue",
+			"FdB" : "R1_FdB_4_Chaise_Motif_Claq",
+			"ObA" : "R1_ObA_4_Chaise_Claq",
+			"ObB" : "R1_ObB_4_Chaise_Motif_Tap"
+		},
+		"Reve2":{
+			"FdA" : "R2_FdA_4_Pompe_respir",
+			"FdB" : "R2_FdB_4_Grille_GlissVib_Tunnel",
+			"ObA" : "R2_ObA_4_Voix_Bateaux",
+			"ObB" : "R2_ObB_4_Voix_Vagues"
+		}
+	}
+,
+	"Joueur5" : {
+		"Reve1": {
+			"FdA" : "R1_FdA_5_Pieds_trainants",
+			"FdB" : "R1_FdB_5_Papier_Froisse1",
+			"ObA" : "R1_ObA_5_Papier_Dechire",
+			"ObB" : "R1_ObB_5_Papier_Frot_Bois_Shot"
+		},
+		"Reve2":{
+			"FdA" : "R2_FdA_5_Verre_Frot_bois",
+			"FdB" : "R2_FdB_5_Grille2_Racl_Regul",
+			"ObA" : "R2_ObA_5_Voix_Controleur",
+			"ObB" : "R2_ObB_5_Voix_Cri_interpelle"
+		}
+	}
+,
+	"Joueur6" : {
+		"Reve1": {
+			"FdA" : "R1_FdA_6_Pompe_respir",
+			"FdB" : "R1_FdB_6_Obj_Frot_Bois",
+			"ObA" : "R1_ObA_6_Radiat_Racl_Court",
+			"ObB" : "R1_ObB_6_Radiat_FrapDgt_Grince"
+		},
+		"Reve2":{
+			"FdA" : "R2_FdA_6_Doigts_Table_Const",
+			"FdB" : "R2_FdB_5_Grille2_Racl_Regul",
+			"ObA" : "R2_ObA_6_Voix_Enfants",
+			"ObB" : "R2_ObB_6_Voix_Billets_svp"
+		}
+	}
+}
