@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 161.0, 226.0, 400.0, 542.0 ],
+		"rect" : [ 38.0, 219.0, 400.0, 542.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1049,7 +1049,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 210.0, 407.5, 76.0, 32.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 8.0, 77.0, 76.0, 19.0 ],
+					"presentation_rect" : [ 24.0, 89.0, 76.0, 45.0 ],
 					"rounded" : 7.0,
 					"style" : "",
 					"text" : "mainClock",
@@ -1084,6 +1084,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 0,
 					"patching_rect" : [ 210.0, 478.0, 45.0, 45.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 102.0, 89.0, 45.0, 45.0 ],
 					"style" : ""
 				}
 
@@ -1242,6 +1244,8 @@
 					"outlettype" : [ "", "", "int" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 214.5, 58.0, 158.5, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 214.5, 58.0, 158.5, 20.0 ],
 					"style" : "",
 					"text" : "development: Vincent Goudard",
 					"textjustification" : 2,
@@ -16974,6 +16978,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 24.0, 58.0, 64.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 24.0, 58.0, 64.0, 20.0 ],
 					"style" : "",
 					"text" : "version 0.1",
 					"textcolor" : [ 0.32549, 0.345098, 0.372549, 1.0 ]
@@ -16989,6 +16995,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 24.0, 15.0, 353.0, 48.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 24.0, 15.0, 353.0, 48.0 ],
 					"style" : "",
 					"text" : "TABLE SONOTACTILE"
 				}
@@ -22829,14 +22837,14 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-106",
-									"linecount" : 3,
+									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 100.0, 285.5, 214.0, 49.0 ],
+									"patching_rect" : [ 100.0, 285.5, 226.0, 35.0 ],
 									"style" : "",
-									"text" : ";\rmax launchbrowser my_script_which_shutdown_computer"
+									"text" : ";\rmax launchbrowser shutdown_computer"
 								}
 
 							}

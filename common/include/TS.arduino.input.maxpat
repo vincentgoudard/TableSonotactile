@@ -5,11 +5,11 @@
 			"major" : 7,
 			"minor" : 3,
 			"revision" : 5,
-			"architecture" : "x64",
+			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 941.0, 44.0, 424.0, 749.0 ],
+		"rect" : [ 941.0, 44.0, 146.0, 149.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -45,7 +45,6 @@
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 65.0, 333.0, 24.0, 24.0 ],
-					"presentation_rect" : [ 68.0, 333.0, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -58,7 +57,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 63.0, 358.0, 54.0, 22.0 ],
-					"presentation_rect" : [ 66.0, 358.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "gate 1 0"
 				}
@@ -115,7 +113,7 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -419,7 +417,7 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -888,7 +886,7 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -1218,7 +1216,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-26",
-					"items" : [ "off", ",", "usbserial-A600etRE", ",", "usbserial-A9009rFX" ],
+					"items" : "no arduino connected",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -1269,7 +1267,7 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
@@ -1533,7 +1531,7 @@
 							"major" : 7,
 							"minor" : 3,
 							"revision" : 5,
-							"architecture" : "x64",
+							"architecture" : "x86",
 							"modernui" : 1
 						}
 ,
