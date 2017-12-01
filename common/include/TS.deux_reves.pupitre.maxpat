@@ -1170,9 +1170,9 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 46.0, 376.0, 47.0, 22.0 ],
+									"patching_rect" : [ 46.0, 427.0, 89.0, 22.0 ],
 									"style" : "",
-									"text" : "dac~ 1"
+									"text" : "send~ TS.out1"
 								}
 
 							}

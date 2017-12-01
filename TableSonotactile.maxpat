@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 38.0, 219.0, 400.0, 542.0 ],
+		"rect" : [ 34.0, 226.0, 383.0, 606.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -4559,7 +4559,7 @@
 													"numinlets" : 1,
 													"numoutlets" : 2,
 													"outlettype" : [ "bang", "bang" ],
-													"patching_rect" : [ 50.0, 85.0, 155.0, 22.0 ],
+													"patching_rect" : [ 50.0, 85.0, 176.0, 22.0 ],
 													"style" : "",
 													"text" : "t b b"
 												}
@@ -4574,7 +4574,7 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 186.0, 114.71875, 171.0, 22.0 ],
+													"patching_rect" : [ 207.0, 122.0, 171.0, 22.0 ],
 													"style" : "",
 													"text" : "\"Playing welcome message...\""
 												}
@@ -4588,7 +4588,7 @@
 													"maxclass" : "newobj",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 186.0, 145.71875, 71.0, 22.0 ],
+													"patching_rect" : [ 207.0, 158.0, 71.0, 22.0 ],
 													"style" : "",
 													"text" : "s init-status"
 												}
@@ -4601,9 +4601,9 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.0, 158.0, 102.0, 22.0 ],
+													"patching_rect" : [ 50.0, 158.0, 147.0, 22.0 ],
 													"style" : "",
-													"text" : "TS.helper.play.ctl"
+													"text" : "LAM.f.call /TS/helper/play"
 												}
 
 											}
@@ -4614,9 +4614,9 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.0, 122.0, 55.0, 22.0 ],
+													"patching_rect" : [ 50.0, 122.0, 65.0, 22.0 ],
 													"style" : "",
-													"text" : "TS.hello"
+													"text" : "TS.hello 1"
 												}
 
 											}
@@ -19702,9 +19702,9 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.0, 120.0, 102.0, 22.0 ],
+													"patching_rect" : [ 50.0, 120.0, 147.0, 22.0 ],
 													"style" : "",
-													"text" : "TS.helper.play.ctl"
+													"text" : "LAM.f.call /TS/helper/play"
 												}
 
 											}
@@ -19715,9 +19715,9 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.0, 83.0, 114.0, 22.0 ],
+													"patching_rect" : [ 50.0, 83.0, 101.0, 22.0 ],
 													"style" : "",
-													"text" : "TS.backToPlay"
+													"text" : "TS.backToPlay 1"
 												}
 
 											}
@@ -20566,9 +20566,9 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.0, 120.0, 102.0, 22.0 ],
+													"patching_rect" : [ 50.0, 120.0, 147.0, 22.0 ],
 													"style" : "",
-													"text" : "TS.helper.play.ctl"
+													"text" : "LAM.f.call /TS/helper/play"
 												}
 
 											}
@@ -20579,9 +20579,9 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.0, 83.0, 68.0, 22.0 ],
+													"patching_rect" : [ 50.0, 83.0, 78.0, 22.0 ],
 													"style" : "",
-													"text" : "TS.options"
+													"text" : "TS.options 1"
 												}
 
 											}
@@ -21092,9 +21092,9 @@
 																	"numinlets" : 1,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"patching_rect" : [ 50.0, 120.0, 102.0, 22.0 ],
+																	"patching_rect" : [ 50.0, 120.0, 147.0, 22.0 ],
 																	"style" : "",
-																	"text" : "TS.helper.play.ctl"
+																	"text" : "LAM.f.call /TS/helper/play"
 																}
 
 															}
@@ -21105,9 +21105,9 @@
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"patching_rect" : [ 50.0, 83.0, 114.0, 22.0 ],
+																	"patching_rect" : [ 50.0, 83.0, 101.0, 22.0 ],
 																	"style" : "",
-																	"text" : "TS.backToPlay"
+																	"text" : "TS.backToPlay 1"
 																}
 
 															}
@@ -21285,9 +21285,9 @@
 																	"numinlets" : 1,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"patching_rect" : [ 50.0, 120.0, 102.0, 22.0 ],
+																	"patching_rect" : [ 50.0, 120.0, 147.0, 22.0 ],
 																	"style" : "",
-																	"text" : "TS.helper.play.ctl"
+																	"text" : "LAM.f.call /TS/helper/play"
 																}
 
 															}
@@ -21298,9 +21298,9 @@
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"patching_rect" : [ 50.0, 83.0, 108.0, 22.0 ],
+																	"patching_rect" : [ 50.0, 83.0, 117.0, 22.0 ],
 																	"style" : "",
-																	"text" : "TS.calibration.end"
+																	"text" : "TS.calibration.end 1"
 																}
 
 															}
@@ -21478,9 +21478,9 @@
 																	"numinlets" : 1,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"patching_rect" : [ 50.0, 132.0, 102.0, 22.0 ],
+																	"patching_rect" : [ 50.0, 132.0, 147.0, 22.0 ],
 																	"style" : "",
-																	"text" : "TS.helper.play.ctl"
+																	"text" : "LAM.f.call /TS/helper/play"
 																}
 
 															}
@@ -21491,9 +21491,9 @@
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
-																	"patching_rect" : [ 50.0, 83.0, 166.0, 22.0 ],
+																	"patching_rect" : [ 50.0, 83.0, 121.0, 22.0 ],
 																	"style" : "",
-																	"text" : "TS.calibration.start"
+																	"text" : "TS.calibration.start 1"
 																}
 
 															}
@@ -22718,9 +22718,9 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.0, 132.0, 102.0, 22.0 ],
+													"patching_rect" : [ 50.0, 122.0, 147.0, 22.0 ],
 													"style" : "",
-													"text" : "TS.helper.play.ctl"
+													"text" : "LAM.f.call /TS/helper/play"
 												}
 
 											}
@@ -22731,9 +22731,9 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 50.0, 83.0, 75.0, 22.0 ],
+													"patching_rect" : [ 50.0, 83.0, 85.0, 22.0 ],
 													"style" : "",
-													"text" : "TS.goodbye"
+													"text" : "TS.goodbye 1"
 												}
 
 											}
@@ -22759,7 +22759,7 @@
 													"maxclass" : "outlet",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 50.0, 255.0, 30.0, 30.0 ],
+													"patching_rect" : [ 50.0, 160.0, 30.0, 30.0 ],
 													"style" : ""
 												}
 
@@ -25355,8 +25355,7 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-98::obj-2" : [ "live.gain~[2]", "live.gain~[2]", 0 ],
-			"obj-10::obj-63" : [ "live.gain~", "live.gain~", 0 ]
+			"obj-98::obj-2" : [ "live.gain~[2]", "live.gain~[2]", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
@@ -25472,9 +25471,16 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "TS.helper.play.ctl.maxpat",
-				"bootpath" : "~/vg.PROJETS/2017.TableSonotactile/DEV/TableSonotactile/common/include",
-				"patcherrelativepath" : "./common/include",
+				"name" : "LAM.f.call.maxpat",
+				"bootpath" : "~/Documents/Max/Packages/lam-lib/patchers",
+				"patcherrelativepath" : "../../../../Documents/Max/Packages/lam-lib/patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "LAM.f.io.maxpat",
+				"bootpath" : "~/Documents/Max/Packages/lam-lib/patchers",
+				"patcherrelativepath" : "../../../../Documents/Max/Packages/lam-lib/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
