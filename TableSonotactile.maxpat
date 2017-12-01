@@ -23017,9 +23017,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 24.0, 370.621552, 138.0, 24.0 ],
+					"patching_rect" : [ 24.0, 370.621552, 119.0, 24.0 ],
 					"style" : "",
-					"text" : "TS.messages.player",
+					"text" : "TS.sample.player",
 					"varname" : "TS.helper"
 				}
 
@@ -25464,7 +25464,7 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "TS.messages.player.maxpat",
+				"name" : "TS.sample.player.maxpat",
 				"bootpath" : "~/vg.PROJETS/2017.TableSonotactile/DEV/TableSonotactile/common/include",
 				"patcherrelativepath" : "./common/include",
 				"type" : "JSON",
