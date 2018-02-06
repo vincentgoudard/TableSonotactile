@@ -1,11 +1,15 @@
+"Bonjour, bienvenue
+
 " Options de la table sonotactile. 
 Pour calibrer les capteurs, appuyer sur le bouton, 1.
 Pour quitter ce menu et revenir au jeu, appuyez sur le bouton, 4.
 Pour éteindre le système, maintenez les 4 boutons enfoncés pendant 5 secondes"
-
 
 "Calibration de la table. Pendant les 20 prochaines secondes, appuyez et relâchez successivement tous les boutons et parcourez les glissière en allant bien aux extremités de course."
 
 "Calibration terminée."
 
 "Retour au jeu."
+
+
+

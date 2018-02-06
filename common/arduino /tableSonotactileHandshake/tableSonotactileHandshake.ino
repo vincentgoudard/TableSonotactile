@@ -12,7 +12,7 @@ et à transmettre le résultat via une communication série.
 // adapter cette identifiant pour chaque pupitre
 // on utilise les bytes inutilisés par les données pour éviter toute confusion
 // 101 = pupitre 1, 102 = pupitre 2, etc...
-int deviceUID = 103;
+int deviceUID = 102;
 
 int Input_0 = 0;
 int Input_1 = 1;
