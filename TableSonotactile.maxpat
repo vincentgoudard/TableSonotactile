@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 40.0, 115.0, 579.0, 679.0 ],
+		"rect" : [ 40.0, 115.0, 536.0, 334.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -307,7 +307,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 745.0, 117.0, 373.0, 401.0 ],
+						"rect" : [ 745.0, 117.0, 661.0, 418.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -335,6 +335,103 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"boxes" : [ 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 12.0,
+									"id" : "obj-9",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 0,
+									"patching_rect" : [ 374.0, 357.68182373046875, 97.0, 22.0 ],
+									"text" : "TS.test.pupitre 6",
+									"varname" : "TS.pupitre[6]"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 12.0,
+									"id" : "obj-13",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 0,
+									"patching_rect" : [ 374.0, 332.331573486328125, 97.0, 22.0 ],
+									"text" : "TS.test.pupitre 5",
+									"varname" : "TS.pupitre[7]"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 12.0,
+									"id" : "obj-20",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 0,
+									"patching_rect" : [ 374.0, 306.9813232421875, 97.0, 22.0 ],
+									"text" : "TS.test.pupitre 4",
+									"varname" : "TS.pupitre[8]"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 12.0,
+									"id" : "obj-21",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 0,
+									"patching_rect" : [ 374.0, 281.631103515625, 97.0, 22.0 ],
+									"text" : "TS.test.pupitre 3",
+									"varname" : "TS.pupitre[9]"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 12.0,
+									"id" : "obj-23",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 0,
+									"patching_rect" : [ 374.0, 256.28082275390625, 97.0, 22.0 ],
+									"text" : "TS.test.pupitre 2",
+									"varname" : "TS.pupitre[10]"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 12.0,
+									"id" : "obj-25",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 0,
+									"patching_rect" : [ 374.0, 230.930572509765625, 97.0, 22.0 ],
+									"text" : "TS.test.pupitre 1",
+									"varname" : "TS.pupitre[11]"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 14.0,
+									"id" : "obj-7",
+									"maxclass" : "newobj",
+									"numinlets" : 0,
+									"numoutlets" : 0,
+									"patching_rect" : [ 374.0, 192.0, 106.0, 24.0 ],
+									"text" : "TS.test.global 1"
+								}
+
+							}
+, 							{
 								"box" : 								{
 									"comment" : "",
 									"id" : "obj-5",
@@ -1508,6 +1605,7 @@
 							}
 , 							{
 								"box" : 								{
+									"active" : 0,
 									"bgcolor" : [ 0.52549, 0.062745, 0.003922, 1.0 ],
 									"bgoncolor" : [ 0.043137, 0.364706, 0.094118, 1.0 ],
 									"fontsize" : 14.0,
@@ -29421,7 +29519,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 24.0, 256.0, 69.0, 22.0 ],
-					"save" : [ "#N", "thispatcher", ";", "#Q", "window", "flags", "grow", "close", "zoom", "nofloat", "menu", "minimize", ";", "#Q", "window", "constrain", 50, 50, 32768, 32768, ";", "#Q", "window", "size", 40, 115, 619, 794, ";", "#Q", "window", "title", ";", "#Q", "window", "exec", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
+					"save" : [ "#N", "thispatcher", ";", "#Q", "window", "flags", "grow", "close", "zoom", "nofloat", "menu", "minimize", ";", "#Q", "window", "constrain", 50, 50, 32768, 32768, ";", "#Q", "window", "size", 40, 115, 576, 449, ";", "#Q", "window", "title", ";", "#Q", "window", "exec", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
 					"text" : "thispatcher"
 				}
 
@@ -29649,6 +29747,7 @@
  ],
 		"parameters" : 		{
 			"obj-1::obj-98::obj-2" : [ "live.gain~[2]", "live.gain~[2]", 0 ],
+			"obj-1::obj-7::obj-2" : [ "live.gain~[3]", "live.gain~[2]", 0 ],
 			"parameterbanks" : 			{
 
 			}
@@ -29786,6 +29885,27 @@
 				"bootpath" : "~/Documents/Max/Packages/lam-lib/patchers",
 				"patcherrelativepath" : "../../../../Documents/Max/Packages/lam-lib/patchers",
 				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "TS.test.global.maxpat",
+				"bootpath" : "~/vg.PROJETS/2017.TableSonotactile/DEV/TableSonotactile/jeux/test",
+				"patcherrelativepath" : "./jeux/test",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "TS.test.pupitre.maxpat",
+				"bootpath" : "~/vg.PROJETS/2017.TableSonotactile/DEV/TableSonotactile/jeux/test",
+				"patcherrelativepath" : "./jeux/test",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "TS.test.lores.gendsp",
+				"bootpath" : "~/vg.PROJETS/2017.TableSonotactile/DEV/TableSonotactile/jeux/test",
+				"patcherrelativepath" : "./jeux/test",
+				"type" : "gDSP",
 				"implicit" : 1
 			}
  ],
